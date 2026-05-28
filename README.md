@@ -34,8 +34,7 @@ A complete, production-ready e-commerce web app built with React on the frontend
 
 ---
 
-## Folder Structure
-```
+
 ### 1. Clone the repo
 
 ```bash
