@@ -31,6 +31,7 @@ A complete, production-ready e-commerce web app built with React on the frontend
 **Payments** — Stripe, Cash on Delivery
 
 **Image Storage** — Cloudinary
+
 ---
 
 ## Folder Structure
