@@ -1,4 +1,4 @@
-# Forever — Full-Stack E-Commerce Platform
+# Forever - Full-Stack E-Commerce application
 
 A complete, production-ready e-commerce web app built with React on the frontend and Node.js/Express on the backend. Browse products, manage a cart, and check out with Stripe, Razorpay, or cash on delivery — all backed by MongoDB and Cloudinary for image storage.
 
